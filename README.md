@@ -48,7 +48,8 @@
 
 <h2 align="center">📌 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h1nadesu&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h1nadesu&show_icons=true&rank_icon=github&theme=react" />
+  <img src="https://streak-stats.demolab.com?user=h1nadesu&theme=react" /></a>
 </p>
 
 <p align="center">
