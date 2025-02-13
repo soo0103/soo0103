@@ -32,18 +32,10 @@
 
 <h2 align="center">🧩 Problem Solving</h2>
 <p align="center">
-  <a href="https://solved.ac/xoo0103" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xoo0103" />
-  </a>
   <a href="https://solved.ac/iamyoung22" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iamyoung22" />
   </a>
-  
-  <br>
-
-  <img src="http://mazandi.herokuapp.com/api?handle=xoo0103&theme=cold"/>
   <img src="http://mazandi.herokuapp.com/api?handle=iamyoung22&theme=warm"/>
-  
 </p>
 
 <h2 align="center">📌 GitHub Stats</h2>
