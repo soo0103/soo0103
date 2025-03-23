@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1nadesu&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soo0103&layout=compact&theme=react" />
 </p>
 
 <h2 align="center">🔧 Tools</h2>
@@ -41,8 +41,8 @@
 
 <h2 align="center">📌 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h1nadesu&show_icons=true&rank_icon=github&theme=react" />
-  <img src="https://streak-stats.demolab.com?user=h1nadesu&theme=react&card_width=470" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soo0103&show_icons=true&rank_icon=github&theme=react" />
+  <img src="https://streak-stats.demolab.com?user=soo0103&theme=react&card_width=470" />
 </p>
 
 <p align="center">
