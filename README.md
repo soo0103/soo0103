@@ -36,7 +36,7 @@
   <a href="https://solved.ac/iamyoung22" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iamyoung22" />
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=iamyoung22&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=iamyoung22&theme=cold"/>
 </p>
 
 <h2 align="center">📌 GitHub Stats</h2>
