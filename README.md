@@ -11,6 +11,7 @@
 <h2 align="center">💻 Main Language</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soo0103&layout=compact&theme=react" />
 </p>
