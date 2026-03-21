@@ -31,7 +31,7 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 ---
 
 ## 📂 Projects
-- **Fresco**  
+- **[Fresco](https://github.com/PKNU-Kirby/Fresco-DataEnd)**  
   Personalized ingredient & recipe management application  
   → Built dataset (1,100+ items), FastAPI server, OpenAI API integration  
 
