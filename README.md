@@ -23,7 +23,7 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 **Infrastructure & Security**
 - FastAPI  
 - Docker / Docker Compose  
-- Nginx
+- Nginx, Apache HTTP Server
 - SSL Configuration 
 
 **Search & Tools**
