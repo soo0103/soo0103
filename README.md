@@ -8,7 +8,7 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 - **ML / DL (currently studying)**
 - Infrastructure
 - Security
-- [Algorithm](https://github.com/soo0103/algorithms)
+- Algorithm
 
 ## 📂 Projects
 - **[Fresco](https://github.com/PKNU-Kirby/Fresco-DataEnd)**  
