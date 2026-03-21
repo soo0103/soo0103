@@ -46,7 +46,7 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 ---
 
 ## 📄 Publications
-- *(Automation for Die Design in Cold Drawing Process Using Machine Learning)[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577767]*  
+- *[Automation for Die Design in Cold Drawing Process Using Machine Learning](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577767)*  
   (Korea Software Congress 2025)
 
 ---
