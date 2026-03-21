@@ -17,7 +17,8 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 **Data**
 - Pandas  
 - Numpy
-- scikit-learn 
+- scikit-learn
+- MySQL
 
 **Infrastructure & Security**
 - FastAPI  
