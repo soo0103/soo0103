@@ -7,7 +7,8 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 - Data Analysis  
 - ML / DL (currently studying)
 - Infrastructure
-- Security  
+- Security
+- [Algorithm](https://github.com/soo0103/algorithms)
 
 ## 🛠️ Once I've Used
 **Programming**
