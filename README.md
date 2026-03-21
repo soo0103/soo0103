@@ -5,7 +5,7 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 
 ## 🔍 Interests
 - Data Analysis  
-- ML / DL (currently studying)
+- **ML / DL (currently studying)**
 - Infrastructure
 - Security
 - [Algorithm](https://github.com/soo0103/algorithms)
