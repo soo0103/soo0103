@@ -49,4 +49,4 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 
 ## 📫 Contact
 - Email: k1hyxn01@gmail.com  
-- GitHub: https://github.com/soo0103  
+- Velog: https://velog.io/@malgeum
