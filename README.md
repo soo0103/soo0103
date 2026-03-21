@@ -35,7 +35,7 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
   Personalized ingredient & recipe management application  
   → Built dataset (1,100+ items), FastAPI server, OpenAI API integration  
 
-- **Irega-kko Project**  
+- **[Irega-kko Project](https://github.com/PKNU-Kirby/Venture)**  
   Industry-academic collaboration with RHINOX  
   → Algorithm optimization & ML-based automation for die design  
 
@@ -46,7 +46,7 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 ---
 
 ## 📄 Publications
-- *Automation for Die Design in Cold Drawing Process Using Machine Learning*  
+- *(Automation for Die Design in Cold Drawing Process Using Machine Learning)[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577767]*  
   (Korea Software Congress 2025)
 
 ---
