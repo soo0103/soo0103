@@ -33,8 +33,8 @@ Currently, I am focusing on machine learning and deep learning, with the goal of
 
 **Data**
 - Pandas  
-- Numpy
-- scikit-learn
+- NumPy
+- Scikit-learn
 - MySQL
 
 **Infrastructure & Security**
