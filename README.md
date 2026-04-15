@@ -1,12 +1,12 @@
 ## 📌 About Me
 I enjoy exploring and learning across a wide range of fields in technology.  
 I enjoy learning from books and official documentation.  
-Currently, I am focusing on machine learning and deep learning, with the goal of continuing to grow in the field of AI.
+Currently, I am focusing on infrastructure and DevOps, with the goal of continuously growing in the field of cloud and scalable systems.
 
 ## 🔍 Interests
-- Data Analysis  
-- **ML / DL (currently studying)**
-- Infrastructure
+- **Infrastructure (currently studying)**  
+- ML / DL
+- Data Analysis
 - Security
 - Algorithm
 
