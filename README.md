@@ -4,8 +4,8 @@ I enjoy learning from books and official documentation.
 Currently, I am focusing on infrastructure and DevOps, with the goal of continuously growing in the field of cloud and scalable systems.
 
 ## 🔍 Interests
-- **Infrastructure (currently studying)**  
-- ML / DL
+- AI, ML / DL
+- Infrastructure  
 - Data Analysis
 - Security
 - Algorithm
@@ -26,26 +26,6 @@ Currently, I am focusing on infrastructure and DevOps, with the goal of continuo
 ## 📄 Publications
 - *[Automation for Die Design in Cold Drawing Process Using Machine Learning](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577767)*  
   (Korea Software Congress 2025)
-
-## 🛠️ Once I've Used
-**Programming**
-- Python, C++
-
-**Data**
-- Pandas  
-- NumPy
-- Scikit-learn
-- MySQL
-
-**Infrastructure & Security**
-- FastAPI  
-- Docker / Docker Compose  
-- Nginx, Apache HTTP Server
-- SSL Configuration 
-
-**Search & Tools**
-- Elasticsearch  
-- Linux  
 
 ## 📫 Contact
 - Email: k1hyxn01@gmail.com  
