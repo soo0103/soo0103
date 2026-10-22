@@ -1,7 +1,6 @@
 ## 📌 About Me
 I enjoy exploring and learning across a wide range of fields in technology.  
 I enjoy learning from books and official documentation.  
-Currently, I am studying AI and deep learning.  
 
 ## 🔍 Interests
 - AI, ML / DL
